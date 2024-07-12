@@ -83,14 +83,14 @@ make directory
 원격 저장소(Repository) 확인
 
 
-### git remote add origin remote_repo_url
+### git remote add origin (깃헙주소)
 별칭을 사용해 로컬 저장소 한 개에 여러 원격 저장소를 추가
 
 * origin (추가하는 원격 저장소 별칭 / 다른 이름써도 됨)
 
 
 ### git push origin master
-원격 저장소에 업로드 (이미 연결된 상태)
+원격 저장소에 업로드(push) (이미 연결된 상태)
 원격 저장소의 master 브랜치에 업로드
 
 **원격 저장소에는 파일이 아니라  commit이 올라간다**
