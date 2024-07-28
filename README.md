@@ -5,5 +5,8 @@ TIL이 아닌 WIL
 today는 너무 잦다. week로 간다.
 
 ----
+## Git_start
+git 명령어 정리
+
 ## Python
 파이썬 기본문법 정리
