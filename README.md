@@ -18,9 +18,9 @@ today는 너무 잦다. week로 간다.
 웹 이론 정리
 
 - [Web & HTML & CSS](https://github.com/notrealsilk/TIL/blob/master/Web/%08HTML%26CSS.md)
-- CSS Layout
-- Bootstrap
-- Responsive Web
+- [CSS Layout](https://github.com/notrealsilk/TIL/blob/master/Web/CSS_Layout.md)
+- [Bootstrap](https://github.com/notrealsilk/TIL/blob/master/Web/Bootstrap.md)
+- [Responsive Web](https://github.com/notrealsilk/TIL/blob/master/Web/Responsive%20Web.md)
 
 ## [Django](https://github.com/notrealsilk/TIL/tree/master/Django)
 장고 이론 정리
