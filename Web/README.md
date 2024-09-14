@@ -32,7 +32,9 @@
 ---
 
 <aside>
-💡 MDN 공식문서 https://developer.mozilla.org/ko/
+💡 
+  
+MDN 공식문서 https://developer.mozilla.org/ko/
 
   
 css을 게임으로 연습 https://flexboxfroggy.com/#ko
@@ -41,4 +43,11 @@ css을 게임으로 연습 https://flexboxfroggy.com/#ko
 SEO checker https://www.seobility.net/en/seocheck/ : 얼마나 시멘틱 태그가 잘 되었나
 
 </aside>
+
+---
+
+### 이런저런 팁
+
+- breakpoint의 사이즈  한 개를 바꾸면 그와 관련된 다른 설정들도 바꿔줘야 함
+- mx-auto (좌우를 오토) / ms-auto (좌측을 오토.. 오른쪽 정렬) / md-auto (우측을 오토.. 왼쪽 정렬)
 
