@@ -14,11 +14,11 @@ today는 너무 잦다. week로 간다.
 ## [Algorithm](https://github.com/notrealsilk/TIL/tree/master/Algorithm)
 알고리즘 이론 정리
 
-## Web
+## [Web](https://github.com/notrealsilk/TIL/tree/master/Web)
 웹 이론 정리
 
-- Web
-- HTML & CSS
+- [Web & HTML & CSS](https://github.com/notrealsilk/TIL/blob/master/Web/%08HTML%26CSS.md)
+- CSS Layout
 - Bootstrap
 - Responsive Web
 
