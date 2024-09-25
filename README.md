@@ -36,3 +36,10 @@ git 명령어 정리
 
 ## [Django](https://github.com/notrealsilk/TIL/tree/master/Django)
 장고 이론 정리
+
+- [1_Intro & Design Pattern](https://github.com/notrealsilk/TIL/blob/master/Django/1_Intro%20%26%20Design%20Pattern.md)
+- [2_Template & URLs](https://github.com/notrealsilk/TIL/blob/master/Django/2_Template%20%26%20URLs.md)
+- [3_Model](https://github.com/notrealsilk/TIL/blob/master/Django/3_Model.md)
+- [4_ORM](https://github.com/notrealsilk/TIL/blob/master/Django/4_ORM.md)
+- [5_ORM with view](https://github.com/notrealsilk/TIL/blob/master/Django/5_ORM%20with%20view.md)
+- [6_Django Form](https://github.com/notrealsilk/TIL/blob/master/Django/6_Django%20Form.md)
