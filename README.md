@@ -2,8 +2,6 @@ TIL이 아닌 WIL
 -----------------------------------------
 조금씩하면 무엇이든 되겠지
 
-today는 너무 잦다. week로 간다.
-
 ----
 ## [Git_start](https://github.com/notrealsilk/TIL/tree/master/Git_start)
 git 명령어 정리
@@ -43,3 +41,4 @@ git 명령어 정리
 - [4_ORM](https://github.com/notrealsilk/TIL/blob/master/Django/4_ORM.md)
 - [5_ORM with view](https://github.com/notrealsilk/TIL/blob/master/Django/5_ORM%20with%20view.md)
 - [6_Django Form](https://github.com/notrealsilk/TIL/blob/master/Django/6_Django%20Form.md)
+- [7_Static files](https://github.com/notrealsilk/TIL/blob/master/Django/7_Static%20files.md)
