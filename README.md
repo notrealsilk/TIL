@@ -42,3 +42,4 @@ git 명령어 정리
 - [5_ORM with view](https://github.com/notrealsilk/TIL/blob/master/Django/5_ORM%20with%20view.md)
 - [6_Django Form](https://github.com/notrealsilk/TIL/blob/master/Django/6_Django%20Form.md)
 - [7_Static files](https://github.com/notrealsilk/TIL/blob/master/Django/7_Static%20files.md)
+- [8_Authentication_System_1](https://github.com/notrealsilk/TIL/blob/master/Django/8_Authentication_System_1.md)
