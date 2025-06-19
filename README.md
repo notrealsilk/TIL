@@ -44,3 +44,8 @@ git 명령어 정리
 - [7_Static files](https://github.com/notrealsilk/TIL/blob/master/Django/7_Static%20files.md)
 - [8_Authentication_System_1](https://github.com/notrealsilk/TIL/blob/master/Django/8_Authentication_System_1.md)
 - [9_Authentication_System_2](https://github.com/notrealsilk/TIL/blob/master/Django/9_Authentication%20System%202.md)
+
+## [DB](https://github.com/notrealsilk/TIL/tree/master/DB)
+DB 기초 이론 정리
+
+- [1_SQL](https://github.com/notrealsilk/TIL/blob/master/DB/1_SQL.md)
