@@ -49,3 +49,5 @@ git 명령어 정리
 DB 기초 이론 정리
 
 - [1_SQL](https://github.com/notrealsilk/TIL/blob/master/DB/1_SQL.md)
+- [2_Many to one relationships1](https://github.com/notrealsilk/TIL/blob/master/DB/2_Many%20to%20one%20relationships1)
+- [3_Many to one relationships2](https://github.com/notrealsilk/TIL/blob/master/DB/2_Many%20to%20one%20relationships2)
